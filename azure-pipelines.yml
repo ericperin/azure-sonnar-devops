@@ -26,7 +26,7 @@ steps:
     SonarCloud: 'AzureWithSonar'
     organization: 'ericperin'
     scannerMode: 'MSBuild'
-    projectKey: 'azure-with-sonar'
+    projectKey: 'ericperin_azure-sonnar-devops'
 
 - task: VSBuild@1
   inputs:
